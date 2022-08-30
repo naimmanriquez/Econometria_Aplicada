@@ -15,3 +15,9 @@ Objetivo: el objetivo de esta sesión es utilizar modelos alternativos al de reg
 Objetivo: el objetivo de esta sesión es introducir al alumno a los modelos de diferencias en diferencias y DCE. Estos modelos son utilizados para medir disposición a pagar por algún producto o servicio, o disposición a aceptar. Los modelos de diferencias en diferencias  son para evaluación de impacto.
 
 Las bases de datos a utilizar en los temas y actividades son fuentes oficiales.
+
+#### Material de apoyo con libros de R
+
+| Asunto | Acceso |
+| ------ | ------ |
+| Google Drive | [Libros de R](https://drive.google.com/drive/folders/1W3S0r_g8PascdS8LLo4vcfcb3rY4fuHG?fbclid=IwAR1iIpnwcGmHZ41g_gZRMrp-xGlPHXFuPwTX49wOBvn2cr8Kg-ZQPp10yAg) |
