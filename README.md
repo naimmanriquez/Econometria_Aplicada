@@ -1,4 +1,4 @@
-# Econometria aplicada
+# Modelos y tópicos de econometria aplicada con R
 Repositorio de archivos de modelos econometricos
 
 ## Taller: Modelos y tópicos de econometria aplicada.
